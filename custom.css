@@ -198,11 +198,11 @@
 }
 
 .custom .stick.pressed.left {
-    background-position-x: -96px;
+    background-position-x: -168px;
 }
 
 .custom .stick.pressed.right {
-    background-position-x: -192px;
+    background-position-x: -168px;
 }
 
 .custom .stick.left {
