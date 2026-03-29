@@ -1,12 +1,12 @@
 :root {
-    --controller-background-image: url(https://maximstanko.github.io/GamePadViewer/images/base.png);
-    --controller-disconnected-image: url(https://maximstanko.github.io/GamePadViewer/images/disconnected.png);
-    --controller-touchpad-image: url(https://maximstanko.github.io/GamePadViewer/images/logo.png);
-    --controller-trigger-image: url(https://maximstanko.github.io/GamePadViewer/images/trigger.png);
-    --controller-bumper-image: url(https://maximstanko.github.io/GamePadViewer/images/bumper.png);
-    --controller-meta-pressed-image: url(https://maximstanko.github.io/GamePadViewer/images/meta.png);
-    --controller-start-image: url(https://maximstanko.github.io/GamePadViewer/images/start-select.png);
-    --controller-button-image: url(https://maximstanko.github.io/GamePadViewer/images/abxy.png);
-    --controller-stick-image: url(https://maximstanko.github.io/GamePadViewer/images/stick.png);
-    --controller-face-image: url(https://maximstanko.github.io/GamePadViewer/images/dpad.png);
+    --controller-background-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/base.png);
+    --controller-disconnected-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/disconnected.png);
+    --controller-touchpad-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/logo.png);
+    --controller-trigger-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/trigger.png);
+    --controller-bumper-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/bumper.png);
+    --controller-meta-pressed-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/meta.png);
+    --controller-start-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/start-select.png);
+    --controller-button-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/abxy.png);
+    --controller-stick-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/stick.png);
+    --controller-face-image: url(https://maximstanko.github.io/SilksongGamePadViewer/images/dpad.png);
 }
