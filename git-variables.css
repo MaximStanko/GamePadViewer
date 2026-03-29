@@ -1,6 +1,6 @@
 :root {
     --controller-background-image: url(https://maximstanko.github.io/GamePadViewer/images/base.svg);
-    --controller-disconnected-image: url(https://maximstanko.github.io/GamePadViewer/images/disconnected.svg);
+    --controller-disconnected-image: url(https://maximstanko.github.io/GamePadViewer/images/disconnected.png);
     --controller-touchpad-image: url(https://maximstanko.github.io/GamePadViewer/images/logo.png);
     --controller-trigger-image: url(https://maximstanko.github.io/GamePadViewer/images/trigger.svg);
     --controller-bumper-image: url(https://maximstanko.github.io/GamePadViewer/images/bumper.svg);
