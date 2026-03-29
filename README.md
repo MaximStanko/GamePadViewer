@@ -11,4 +11,4 @@ Currently only xbox one controllers are supported. For any other controllers it 
 ## How to use
 
 Use the following as custom CSS in the GamePadViewer website:
-https://maximstanko.github.io/SilksongGamePadViewer/
+https://maximstanko.github.io/SilksongGamePadViewer/custom-git.css
