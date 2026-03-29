@@ -1,6 +1,6 @@
 :root {
     --controller-background-image: url(./images/base.svg);
-    --controller-disconnected-image: url(./images/disconnected.svg);
+    --controller-disconnected-image: url(./images/disconnected.png);
     --controller-touchpad-image: url(./images/logo.png);
     --controller-trigger-image: url(./images/trigger.svg);
     --controller-bumper-image: url(./images/bumper.svg);
