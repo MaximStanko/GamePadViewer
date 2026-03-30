@@ -64,18 +64,18 @@
 }
 
 .custom .bumper {
-    width: 170px;
-    height: 61px;
+    width: 157px;
+    height: 69px;
     background: var(--controller-bumper-image) no-repeat;
     opacity: 0;
 }
 
 .custom .bumpers {
     position: absolute;
-    width: 536px;
-    height: 61px;
-    left: 107px;
-    top: 129px;
+    width: 539px;
+    height: 69px;
+    left: 105px;
+    top: 124px;
 }
 
 .custom .bumper.pressed {
