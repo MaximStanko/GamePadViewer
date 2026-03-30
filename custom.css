@@ -125,14 +125,15 @@
 }
 
 .custom .back {
-    float: absolute;
-    bottom: 170px;
-    right: 350px;
+    position: absolute;
+    top: 170px;
+    left: 350px;
 }
 
 .custom .start {
-    float: right;
-    background-position: 110px 0;
+    position: absolute;
+    top: 170px;
+    left: 450px;
 }
 
 .custom .abxy {
