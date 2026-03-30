@@ -73,9 +73,9 @@
 .custom .bumpers {
     position: absolute;
     width: 543px;
-    height: 72px;
+    height: 70px;
     left: 104px;
-    top: 123px;
+    top: 124px;
 }
 
 .custom .bumper.pressed {
